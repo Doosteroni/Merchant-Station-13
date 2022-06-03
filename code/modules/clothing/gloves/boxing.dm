@@ -1,6 +1,6 @@
 /obj/item/clothing/gloves/boxing
 	name = "boxing gloves"
-	desc = "THINK IT DREAM IT DO IT."
+	desc = "THINK IT, DREAM IT, DO IT!"
 	icon_state = "boxing"
 	inhand_icon_state = "boxing"
 	equip_delay_other = 60
